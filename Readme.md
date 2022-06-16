@@ -5,3 +5,5 @@ This tutorial focusses on how to use git and github remotely
 This repository is built step by step in the tutorial.
 
 It now includes step for github.
+
+It now includes pushing and pulling of branches.
